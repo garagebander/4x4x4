@@ -1,5 +1,7 @@
 # 4x4x4 立体四目並べ（3D Connect Four）
 
+> **このプロジェクトはGitHub Copilotによって全自動生成されており、人間は1行もコードを書いていません。**
+
 ![screenshot](./screenshot.png)
 
 このプロジェクトは、React + TypeScript + Viteで作成した4x4x4の立体四目並べ（3D Connect Four）Webアプリです。
