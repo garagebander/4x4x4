@@ -5,7 +5,7 @@
 このプロジェクトは、React + TypeScript + Viteで作成した4x4x4の立体四目並べ（3D Connect Four）Webアプリです。
 
 ## 公開ページ
-- [GitHub Pagesで遊ぶ](https://<ユーザー名>.github.io/4x4x4/)  ← ご自身のGitHubユーザー名に置き換えてください
+- [GitHub Pagesで遊ぶ](https://garagebander.github.io/4x4x4/)
 
 ## 遊び方
 - あなた vs AI（2人対戦も可）
